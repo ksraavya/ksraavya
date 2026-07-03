@@ -26,24 +26,33 @@
 
 ---
 
-I build **agentic AI systems, real-time data pipelines, and graph intelligence engines** on production-scale data.  
-**Data Engineering** • **ML Systems** • **Agentic AI** • **Cybersecurity Intelligence**
+<p align="center">
+  I build <strong>agentic AI systems, real-time data pipelines, and graph intelligence engines</strong> on production-scale data.<br/>
+  <strong>Data Engineering</strong> • <strong>ML Systems</strong> • <strong>Agentic AI</strong> • <strong>Cybersecurity Intelligence</strong>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-| **🔭 Currently Building** Graph-based geopolitical intelligence with Neo4j | **🎓 Education** B.Tech CS (Data Science) @ GGSIPU • CGPA 9.2/10 |
-|---|---|
-| **💼 Ex-Intern** I4C (Ministry of Home Affairs) • SentinelOne • Infosys | **⚡ CP Ratings** LeetCode Knight 2000+ • Codeforces Specialist 1400+ |
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="50%">🔭 <strong>Currently Building</strong><br/>Graph-based geopolitical intelligence with Neo4j</td>
+    <td align="left" width="50%">🎓 <strong>Education</strong><br/>B.Tech CS (Data Science) @ GGSIPU • CGPA 9.2/10</td>
+  </tr>
+  <tr>
+    <td align="left">💼 <strong>Ex-Intern</strong><br/>I4C (Ministry of Home Affairs) • SentinelOne • Infosys</td>
+    <td align="left">⚡ <strong>CP Ratings</strong><br/>LeetCode Knight 2000+ • Codeforces Specialist 1400+</td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksraavya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksraavya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ksraavya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ksraavya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -52,7 +61,7 @@ I build **agentic AI systems, real-time data pipelines, and graph intelligence e
 
 ### 📅 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksraavya&theme=react-dark&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff&color_scheme=dark&custom_title=Sraavya's%20Contribution%20Graph&animate=true)](https://github.com/ksraavya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksraavya&theme=react-dark&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff&custom_title=Sraavya's%20Contribution%20Graph)](https://github.com/ksraavya)
 
 ---
 
@@ -84,22 +93,50 @@ I build **agentic AI systems, real-time data pipelines, and graph intelligence e
 
 ## 📌 Featured Projects
 
-| 🌍 **BlueOrbit — Geopolitical Intelligence Engine** [![GitHub](https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white)](https://github.com/ksraavya/ontology-blueorbit) [![Live](https://img.shields.io/badge/Live-Demo-6E40C9?style=flat)](https://blueorbit-ontology.vercel.app/) <br> Graph-based intelligence on Neo4j (140K+ relationships), multi-hop simulation engine, FastAPI backend on Render | 📡 **StreamSentry — Real-Time Anomaly Detection** [![GitHub](https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white)](https://github.com/ksraavya/fraud-detection-kafka) <br> Kafka + Snowflake + dbt pipeline with synthetic anomaly injection; two-layer ML scoring (rule-based + River online model) |
-|---|---|
-| 🤖 **Content Integrity Investigator — RL Agent** [![GitHub](https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white)](https://github.com/ksraavya/meta-hackathon) <br> Multi-turn RL environment with OpenAI API, Pydantic state machines, asymmetric reward function; baseline score 0.52 vs 0.45 threshold | 🛡️ **SentinelOne Hyperautomation** <br> SHA-256 extraction → VirusTotal API → SOC dashboard auto-population; cut triage effort ~40% |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 BlueOrbit — Geopolitical Intelligence Engine</h3>
+      <p>
+        <a href="https://github.com/ksraavya/ontology-blueorbit"><img src="https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white"/></a>
+        <a href="https://blueorbit-ontology.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-6E40C9?style=flat"/></a>
+      </p>
+      <p>Graph-based intelligence on Neo4j (140K+ relationships), multi-hop simulation engine, FastAPI backend on Render</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 StreamSentry — Real-Time Anomaly Detection</h3>
+      <p>
+        <a href="https://github.com/ksraavya/fraud-detection-kafka"><img src="https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white"/></a>
+      </p>
+      <p>Kafka + Snowflake + dbt pipeline with synthetic anomaly injection; two-layer ML scoring (rule-based + River online model)</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Content Integrity Investigator — RL Agent</h3>
+      <p>
+        <a href="https://github.com/ksraavya/meta-hackathon"><img src="https://img.shields.io/badge/Code-000?style=flat&logo=github&logoColor=white"/></a>
+      </p>
+      <p>Multi-turn RL environment with OpenAI API, Pydantic state machines, asymmetric reward function; baseline score 0.52 vs 0.45 threshold</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ SentinelOne Hyperautomation</h3>
+      <p>SHA-256 extraction → VirusTotal API → SOC dashboard auto-population; cut triage effort ~40%</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏅_ICPC_AlgoQueen_2025-Top_400_%2F_5000%2B-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🇮🇳_India_Innovates_2026-Top_10_Digital_Democracy-blue?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/📊_UIDAI_Hackathon_2025-916_Districts_Risk_Model-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯_Tata_Imagination_2025-Top_7K_%2F_300K%2B-purple?style=for-the-badge"/>
-</p>
+<div align="center">
+
+| 🏅 ICPC AlgoQueen 2025 | 🇮🇳 India Innovates 2026 | 📊 UIDAI Hackathon 2025 | 🎯 Tata Imagination 2025 |
+|:---:|:---:|:---:|:---:|
+| Top 400 / 5000+ | Top 10 Digital Democracy | 916 Districts Risk Model | Top 7K / 300K+ |
+
+</div>
 
 ---
 
@@ -113,4 +150,6 @@ I build **agentic AI systems, real-time data pipelines, and graph intelligence e
 
 ---
 
-> *"Build systems that think, pipelines that scale, and graphs that reveal what plain data hides."* 🚀
+<p align="center">
+  <em>"Build systems that think, pipelines that scale, and graphs that reveal what plain data hides."</em> 🚀
+</p>
