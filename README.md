@@ -140,7 +140,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My Commits, Eaten Alive
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksraavya/ksraavya/output/github-snake-dark.svg">
