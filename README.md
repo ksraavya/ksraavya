@@ -16,7 +16,7 @@
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/sk1510">
-    <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201400%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-Pupil%20%7C%201400%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:ksraavya05@gmail.com">
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td align="left">💼 <strong>Ex-Intern</strong><br/>I4C (Ministry of Home Affairs) • SentinelOne • Infosys</td>
-    <td align="left">⚡ <strong>CP Ratings</strong><br/>LeetCode Knight 2000+ • Codeforces Specialist 1400+</td>
+    <td align="left">⚡ <strong>CP Ratings</strong><br/>LeetCode Knight 2000+ • Codeforces Pupil 1200+</td>
   </tr>
 </table>
 
