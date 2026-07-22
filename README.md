@@ -16,7 +16,7 @@
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/sk1510">
-    <img src="https://img.shields.io/badge/Codeforces-Pupil%20%7C%201200%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-Pupil%20%7C%201300%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:ksraavya05@gmail.com">
