@@ -61,7 +61,7 @@
 
 ### 📅 Contribution Graph
 
-[![Activity Graph](https://raw.githubusercontent.com/ksraavya/ksraavya/main/dist/activity-graph.svg)](https://github.com/ksraavya)
+[![Activity Graph](https://raw.githubusercontent.com/ksraavya/ksraavya/main/dist/activity-graph.png)](https://github.com/ksraavya)
 
 ---
 
