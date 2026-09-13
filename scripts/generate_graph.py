@@ -77,3 +77,9 @@ w('</svg>')
 os.makedirs("dist", exist_ok=True)
 with open(OUTPUT, "w") as f: f.write("\n".join(lines))
 print(f"Done: {n} days, max {max_c}")
+
+# Convert SVG to PNG
+import subprocess, shutil
+os.makedirs("dist", exist_ok=True)
+if shutil.which("cairosvg"):
+    subprocess.run(["cairosvg", OUTPUT, "-o", OUTPUT.replace(".svg", ".png")], check=True)
