@@ -61,7 +61,7 @@
 
 ### 📅 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksraavya&theme=react-dark&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff&custom_title=Sraavya's%20Contribution%20Graph)](https://github.com/ksraavya)
+[![Activity Graph](https://raw.githubusercontent.com/ksraavya/ksraavya/main/dist/activity-graph.svg)](https://github.com/ksraavya)
 
 ---
 
